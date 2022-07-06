@@ -10,9 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 #!/bin/bash
 
-# Author : B1B3K S4H
+# Author : Exz rocky 
 
-# Copyright ©2020
+# Copyright ©2022
+
 
 # Script follows here:
 
